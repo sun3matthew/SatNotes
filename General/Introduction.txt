@@ -1,0 +1,18 @@
+The SAT has 4 tests, with the essay being optional.
+  Reading, Writing and Math
+
+Reading -> 65 mins -> 52 Questions
+Writing/Language -> 35 mins -> 44 Questions
+Math -> 80 mins -> 58 Questions
+Essay -> 50 mins -> 1 Question
+Total -> 180(230 with essay)mins
+
+The essay is optional, but you should probably do it
+
+No points are deducted for wrong answers.
+There's no advantage to leaving any blank
+
+400 - 1600
+
+Expression of ideas, English Conventions, Heart of Algebra, Problem Solving and Data Analyisis
+Advanced Math, Words in Contex, Command of Evidence
