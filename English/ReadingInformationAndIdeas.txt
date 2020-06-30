@@ -1,0 +1,45 @@
+First category of the reading test Questions
+
+Information and idea, the authors message
+  Ask  you to think carefully about the authors message.
+  Things the author mentions directly and explicitly, and things that are not
+  directly stated but is otherwise strongly suggested.
+
+There are 6 main types:
+  Reading closely: whats stated or implied
+    Most general of  the questions types.
+    To locate a point or detail in a passage or to reach a conclusion/inferences
+    How the information and ideas in the passage could be applied to another analogous case
+    Consider what the author is trying to say directly or indirectly.
+    Hints:
+      "according to the passage", "states", "indicates" -> look for explicit
+      "based on the passage", "can be reasonably inferred", "implies" -> implicit
+  Citing Textual Evidence: What part best supports a conclusion
+    Questions will ask you to determine which portion of the passage provides
+    the best evidence for the conclusion.
+    Many of these will require you to select the statement the best supports the
+    answer to a previous question
+    Which one best supports
+    Comes in a pair usually, you can reconsider your answer to the first after
+    you read the second.
+  Determining central ideas/Themes: ~
+    What the main point or theme of a passage is.
+    Looking for a overarching statement that encapsulates the key point.
+    May be stated explicitly or implied.
+    "theme" -> passage as a whole
+    "main idea" -> one or more paragraphs
+    don't pick one that only refers to a detail or fail to fully capture the point.
+  Summarizing: Recognizing a effective summary of a passage
+    Conveying the most important ideas. Without adding your own interpretation. To choose a best summary
+    or reconize where a summary falls short
+    "Summary"
+  Understanding relationships: Making connections, cause effect, comparison contrast, sequence
+    Relationship btw people. ideas, events.
+    Cause-and-effect: How one thing is caused another to happen. "Because", "since"
+    Comparison-contrast: How two things are similar and or different. "More", "less"
+    Sequence: The order in which things happened. "first", "last", "before", "after"
+  Interpreting Words and phrases in context: The precise meaning of a particular word
+  in context.
+    To determine the precise meaning of a particular word or phrase, words with multiple dictionary
+    definitions.
+    "as used in line x, '[word or phrase]' most nearly means"
