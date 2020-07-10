@@ -3,8 +3,31 @@ that authors make in structuring and developing their texts.
 
 5 main types
   Analyzing word choice:
+    about determining the meaning of words and phrases in context.
+    Focus less on definitions and more on rhetorical impact.
+    No standard phrasing to these questions, they call put certian
+    words and ask you to consider the purpose or effect
   Analyzing text structure:
+    One kind will ask you to characterize in some way the overall structure of the passage
+      This could be as simple as recognizing the basic organizing princable
+        cause-effect, sequence or problem solution.
+      Most cases the questions will be more complicated and shaped by the content
+      of the passage
+        you may have to track how the structure shifts over the course of a passage
+        "The passage begins by doing x, then does y"
+      To answer this question, you'll have to think abstractly and identify the major change in
+      focus that occurs in the passage.
   Analyzing point of view:
+    This includes the stance, attitude or bias of the author, narrator or speaker.
+    will have the words "perspective" and "point of view"
+    The awnser choices offer characterization of the author, narrator or speaker.
   Analyzing purpose:
-  Analyzing word choice:
-  
+    You'll have to think abstractly about the text, you'll consider the main purpose or function
+    of the whole passage or of a significant part of the passage.
+    The word "Purpose" or "Function" are in these questions.
+  Analyzing arguments:
+    The test includes passages that are primarily argumentative
+    A question that asks about the central claim of an argument.
+    You'll have to decide on the primary assertion that the author is trying to make
+    Distinguish secondary assertions and details.
+    "Claim" "counterClaim" "reason" "evidence"
