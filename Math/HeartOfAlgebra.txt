@@ -1,0 +1,9 @@
+Focusing on the mastery of linear equations, systems of linear equations,
+inequalities
+Heart of Algebra questions vary in form and appearence.
+
+When you use algebra to analyze and solve a problem in real life. A key step is
+to represent the context to the problem algebraically.
+Sometimes you may need to define more then ore varible and create more than context
+equation or inequality to represent the context.
+Other questions will just make you solve a linear equation, Inequality or system
